@@ -22,7 +22,7 @@ printf("0");
 }
 if (n < 6 && n !=0);
 {
-  Printf("Less than 6 not 0");
+printf("Less than 6 not 0");
 }
 return (0);
 }
