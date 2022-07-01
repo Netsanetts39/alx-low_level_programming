@@ -5,7 +5,7 @@
 *main -> assign a random number to the variable n each time it is executed and print out
 *Return : always 0
 */
-int main (void)
+int main(void)
 {
 int n;
 srand(time(0));
@@ -15,6 +15,8 @@ if (n > 0)
 if (n == 0)
   printf("%d is zero\n" , n);
 if (n < 0)
+{
   printf("%d is negative\n" , n);
+}
 return (0);
 }
