@@ -20,7 +20,7 @@ if (n == 0)
  {
     printf("0");
  }
-if (n < 6 && n !=0);
+if (n < 6 && n !=0)
  {
     printf("Less than 6 not 0");
  }
