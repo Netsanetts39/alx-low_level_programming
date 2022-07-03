@@ -2,15 +2,12 @@
 
 int main()
 {
-        char ch = 'a';
-        
-        while(ch <= 'z')
-        {
-                printf("%c " ch);
-                ch++;
-        }
-        
-        return 0;
+    for(int x = 'A'; x <= 'Z'; x++)
+    {
+        x = tolower(x);
+        putchar(x);
+    }
+    return 0;
 }
 
         
