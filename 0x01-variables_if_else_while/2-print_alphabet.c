@@ -2,10 +2,10 @@
 
 int main()
 {
-    for(int x = 'A'; x <= 'Z'; x++)
+    for(int c = 'a'; c <= 'z'; c++)
     {
-        x = tolower(x);
-        putchar(x);
+        c = tolower(c);
+        putchar(c);
     }
     return 0;
 }
