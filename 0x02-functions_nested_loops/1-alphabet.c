@@ -2,9 +2,10 @@
  * File: 1-alphabet.c
  * Auth: Netsanet
  */
-#include "main.h"
+#include "alphabet.h"
 /**
-* main - prints the alphabet in lowercase, followed by a new line.
+* print_alphabet - prints the alphabet in lowercase, followed by a new line.
+* Return : always 0
 */
 void print_alphabet(void);
 {
