@@ -4,7 +4,7 @@
  *
  */
 
-#include "main.h"
+#include "main.c"
 #include "_putchar.h"
 
 /**
