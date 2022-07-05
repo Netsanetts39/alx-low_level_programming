@@ -4,10 +4,10 @@
  *
  */
 
-#include "_putchar.h"
+#include "_putchar.c"
 
 /**
- * main - Prints "_Putchar" followed by a new line.
+ * main - Prints "_putchar" followed by a new line.
  *
  * Return: Always 0.
  */
