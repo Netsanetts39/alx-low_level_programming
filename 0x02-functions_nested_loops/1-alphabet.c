@@ -3,7 +3,7 @@
  * Auth: Netsanet
  */
 
-#include "alphabet.h"
+#include "putchar.h"
 
 /**
  * print_alphabet - prints the alphabet in lowercase, followed by a new line.
