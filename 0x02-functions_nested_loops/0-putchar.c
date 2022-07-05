@@ -4,8 +4,7 @@
  *
  */
 
-#include "main.c"
-#include "_putchar.h"
+#include "main/_putchar.h"
 
 /**
  * main - Prints "_putchar" followed by a new line.
